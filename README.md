@@ -45,16 +45,27 @@ Votre serveur devrait être accessible à l'adresse [http://locahost:3001](http:
 ### Données pré-remplies dans la base de données
 Après l'exécution du script 'populate-db', vous aurez deux utilisateurs dans votre base de données :
 
+
 - Tony Stark
+  
   Prénom : Tony
+  
   Nom : Stark
+  
   Email : tony@stark.com
+  
   Mot de passe : password123
+  
 -  Steve Rogers
+  
   Prénom : Steve
+  
   Nom : Rogers
+  
   Email : steve@rogers.com
+  
   Mot de passe : password456
+  
 
 ### Documentation de l'API
 Pour en savoir plus sur le fonctionnement de l'API, une documentation complète est disponible à [cette adresse](http://localhost:3001/api-docs).
