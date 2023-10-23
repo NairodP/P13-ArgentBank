@@ -46,7 +46,7 @@ Votre serveur devrait être accessible à l'adresse [http://locahost:3001](http:
 Après l'exécution du script 'populate-db', vous aurez deux utilisateurs dans votre base de données :
 
 
-- Tony Stark
+**- Tony Stark**
   
   Prénom : Tony
   
@@ -55,15 +55,15 @@ Après l'exécution du script 'populate-db', vous aurez deux utilisateurs dans v
   Email : tony@stark.com
   
   Mot de passe : password123
-  
--  Steve Rogers
-  
+
+**- Steve Rogers**
+
   Prénom : Steve
-  
+
   Nom : Rogers
-  
+
   Email : steve@rogers.com
-  
+
   Mot de passe : password456
   
 
