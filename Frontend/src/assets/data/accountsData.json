@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1c8e378a-710c-4d3d-bd42-6f868fc081a6",
+    "title": "Argent Bank Checking",
+    "accountNumber": "x8349",
+    "amount": "$2,082.79",
+    "description": "Available Balance"
+  },
+  {
+    "id": "f5c26c96-9d3e-437b-82cf-0f8858990a7d",
+    "title": "Argent Bank Savings",
+    "accountNumber": "x6712",
+    "amount": "$10,928.42",
+    "description": "Available Balance"
+  },
+  {
+    "id": "2ec8d99e-2e6a-4e71-992d-e6224e5c6ea7",
+    "title": "Argent Bank Credit Card",
+    "accountNumber": "x8349",
+    "amount": "$184.30",
+    "description": "Current Balance"
+  }
+]
+

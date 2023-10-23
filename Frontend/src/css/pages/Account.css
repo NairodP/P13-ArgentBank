@@ -1,0 +1,78 @@
+.table-transactions {
+  background: rgb(171, 171, 171);
+  background: -moz-linear-gradient(
+    32deg,
+    rgba(171, 171, 171, 1) 0%,
+    rgba(205, 205, 205, 1) 50%,
+    rgba(227, 227, 227, 1) 100%
+  );
+  background: -webkit-linear-gradient(
+    32deg,
+    rgba(171, 171, 171, 1) 0%,
+    rgba(205, 205, 205, 1) 50%,
+    rgba(227, 227, 227, 1) 100%
+  );
+  background: linear-gradient(
+    32deg,
+    rgba(171, 171, 171, 1) 0%,
+    rgba(205, 205, 205, 1) 50%,
+    rgba(227, 227, 227, 1) 100%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ababab",endColorstr="#e3e3e3",GradientType=1);
+}
+
+.account-informations {
+  padding: 2em;
+  display: block;
+  width: 100%;
+  color: #28384a;
+  text-align: center;
+  border: 1px solid rgba(100, 100, 100, 1);
+  background-color: white;
+}
+
+.container-table {
+  padding: 2em;
+  background: rgb(171, 171, 171);
+  background: -moz-linear-gradient(
+    32deg,
+    rgba(171, 171, 171, 1) 0%,
+    rgba(205, 205, 205, 1) 50%,
+    rgba(227, 227, 227, 1) 100%
+  );
+  background: -webkit-linear-gradient(
+    32deg,
+    rgba(171, 171, 171, 1) 0%,
+    rgba(205, 205, 205, 1) 50%,
+    rgba(227, 227, 227, 1) 100%
+  );
+  background: linear-gradient(
+    32deg,
+    rgba(171, 171, 171, 1) 0%,
+    rgba(205, 205, 205, 1) 50%,
+    rgba(227, 227, 227, 1) 100%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ababab",endColorstr="#e3e3e3",GradientType=1);
+}
+
+.table-transactions {
+  margin: 0 auto;
+  padding: 2em;
+  width: 90%;
+  color: #28384a;
+  border: none;
+}
+
+.table-transactions-body {
+  background-color: white;
+}
+
+.table-cell-header {
+  font-weight: 700!important;
+  text-align: center!important;
+}
+
+.table-cell-body {
+  font-weight: 600!important;
+  text-align: center!important;
+}

@@ -1,0 +1,137 @@
+[
+  {
+    "id": "1",
+    "accountId": "1c8e378a-710c-4d3d-bd42-6f868fc081a6",
+    "date": "September 25th, 2023",
+    "description": "Facture d'électricité",
+    "amount": 50.0,
+    "balance": 2082.79,
+    "type": "expense"
+  },
+  {
+    "id": "2",
+    "accountId": "1c8e378a-710c-4d3d-bd42-6f868fc081a6",
+    "date": "September 20th, 2023",
+    "description": "Dépôt de salaire",
+    "amount": 1200.45,
+    "balance": 2132.79,
+    "type": "gain"
+  },
+  {
+    "id": "3",
+    "accountId": "1c8e378a-710c-4d3d-bd42-6f868fc081a6",
+    "date": "September 15th, 2023",
+    "description": "Retrait d'argent",
+    "amount": 100.0,
+    "balance": 932.34,
+    "type": "expense"
+  },
+  {
+    "id": "4",
+    "accountId": "1c8e378a-710c-4d3d-bd42-6f868fc081a6",
+    "date": "September 12th, 2023",
+    "description": "Restauration",
+    "amount": 30.0,
+    "balance": 1032.34,
+    "type": "expense"
+  },
+  {
+    "id": "5",
+    "accountId": "1c8e378a-710c-4d3d-bd42-6f868fc081a6",
+    "date": "September 10th, 2023",
+    "description": "Achat en ligne",
+    "amount": 50.0,
+    "balance": 1062.34,
+    "type": "expense"
+  },
+  {
+    "id": "6",
+    "accountId": "f5c26c96-9d3e-437b-82cf-0f8858990a7d",
+    "date": "September 28th, 2023",
+    "description": "Dépôt de chèque",
+    "amount": 500.0,
+    "balance": 10928.42,
+    "type": "gain"
+  },
+  {
+    "id": "7",
+    "accountId": "f5c26c96-9d3e-437b-82cf-0f8858990a7d",
+    "date": "September 27th, 2023",
+    "description": "Paiement par carte",
+    "amount": 23.5,
+    "balance": 10428.42,
+    "type": "expense"
+  },
+  {
+    "id": "8",
+    "accountId": "f5c26c96-9d3e-437b-82cf-0f8858990a7d",
+    "date": "September 25th, 2023",
+    "description": "Retrait DAB",
+    "amount": 100.0,
+    "balance": 10451.92,
+    "type": "expense"
+  },
+  {
+    "id": "9",
+    "accountId": "f5c26c96-9d3e-437b-82cf-0f8858990a7d",
+    "date": "September 20th, 2023",
+    "description": "Paiement minimum",
+    "amount": 50.0,
+    "balance": 10551.92,
+    "type": "expense"
+  },
+  {
+    "id": "10",
+    "accountId": "f5c26c96-9d3e-437b-82cf-0f8858990a7d",
+    "date": "September 18th, 2023",
+    "description": "Achat en ligne",
+    "amount": 134.3,
+    "balance": 10601.92,
+    "type": "expense"
+  },
+  {
+    "id": "11",
+    "accountId": "2ec8d99e-2e6a-4e71-992d-e6224e5c6ea7",
+    "date": "October 21th, 2023",
+    "description": "Retrait DAB",
+    "amount": 50.0,
+    "balance": 184.3,
+    "type": "expense"
+  },
+  {
+    "id": "12",
+    "accountId": "2ec8d99e-2e6a-4e71-992d-e6224e5c6ea7",
+    "date": "October 20th, 2023",
+    "description": "Achat en ligne",
+    "amount": 75.0,
+    "balance": 234.3,
+    "type": "expense"
+  },
+  {
+    "id": "13",
+    "accountId": "2ec8d99e-2e6a-4e71-992d-e6224e5c6ea7",
+    "date": "October 15th, 2023",
+    "description": "Station service",
+    "amount": 63.8,
+    "balance": 304.3,
+    "type": "expense"
+  },
+  {
+    "id": "14",
+    "accountId": "2ec8d99e-2e6a-4e71-992d-e6224e5c6ea7",
+    "date": "October 10th, 2023",
+    "description": "Facture d'électricité",
+    "amount": 31.9,
+    "balance": 368.1,
+    "type": "expense"
+  },
+  {
+    "id": "15",
+    "accountId": "2ec8d99e-2e6a-4e71-992d-e6224e5c6ea7",
+    "date": "October 5th, 2023",
+    "description": "Facture de gaz",
+    "amount": 57.32,
+    "balance": 400.0,
+    "type": "expense"
+  }
+]
