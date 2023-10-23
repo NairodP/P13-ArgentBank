@@ -166,7 +166,7 @@ export default function Auth() {
 
     // Mise à jour des erreurs de champ
     setFieldErrors(newFieldErrors);
-    console.log(newFieldErrors);
+    // console.log(newFieldErrors);
 
     // Si le formulaire n'a pas d'erreurs, continuez avec l'envoi
     if (!hasErrors) {

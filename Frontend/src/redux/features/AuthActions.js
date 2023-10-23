@@ -67,7 +67,7 @@ export const userUpdate = (updatedUserData) => async (dispatch, getState) => {
       dispatch,
       getState
     );
-
+    // console.log(result);
     return result;
   } catch (error) {
     console.error(error);
